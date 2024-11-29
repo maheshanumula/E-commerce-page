@@ -1,7 +1,7 @@
 const Pra = () => {
     return ( 
         <div>
-            hello
+            <h1> hello mahesh</h1>
         </div>
      );
 }
