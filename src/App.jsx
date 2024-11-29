@@ -9,14 +9,16 @@ import Kid from './components/Kid';
 const App = () => {
   return ( 
     <div>
-      <Firstcomp/>
+      {/*<Firstcomp/>
       <Secoundcomp/>
       
       <Routes>
       <Route path = "/xyz" element ={<Shopper/>} />
      <Route path="/abc" element ={<Men/>}/>
      <Route path="/efc" element ={<Kid/>}/>
-     </Routes>
+     </Routes>*/}
+
+     <Pra/>
      
     </div>
    );
